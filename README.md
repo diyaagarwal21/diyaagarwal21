@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @diyaagarwal21
-- 👀 I’m interested in mechanical engineering.
-- 🌱 I learned Java through my AP Computer Science A class!
+👋 Hi, I’m @diyaagarwal21
+Caltech '27, Mechanical Engineering + Robotics
 
 <!---
 diyaagarwal21/diyaagarwal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
